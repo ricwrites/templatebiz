@@ -14,11 +14,11 @@ return (
 <h2 className = "menusubl"> Starters </h2>
 <ul>
 <li> Peri peri French fries, ₹100 </li>
-<li> Honey Chilli Potato </li>
+<li> Honey Chilli Potato, ₹120 </li>
 </ul>
 <h2 className = "menusubl"> Beverages </h2>
 <ul>
-<li> Hot chocolate </li>
+<li> Hot chocolate, ₹150 </li>
 </ul>
 </div>
 </>
@@ -36,7 +36,7 @@ return (
 <div className = "splcontents">
 <h1 className = "splhead"> Specials </h1>
 <ul>
-<li className = "splitems"> Korean BBQ Chicken, ₹300 </li>
+<li className = "splitems"> Korean BBQ Chicken, ₹200 </li>
 </ul>
 </div>
 </>
@@ -50,7 +50,7 @@ export function About() {
 return (
 
 <>
-<h1> About us! </h1>
+<h1 style = {{position:"relative", top: "10%"}}> About us! </h1>
 
 <h2> Our vision... </h2>
 
