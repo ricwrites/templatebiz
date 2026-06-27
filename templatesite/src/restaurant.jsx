@@ -1,5 +1,5 @@
 import React from "react";
-import menu from './assets/menu.png';
+import menu from './assets/menu.jpeg';
 import specials from './assets/specials.jpeg';
 import contact from './assets/Contact.png';
 
